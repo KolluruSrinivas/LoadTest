@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ykgXuMVsyrdrzxS2k9atO96JkWgUhB5nUhyYcoD+LK8=",
+  "Source": "CatalogService",
+  "BasePath": "_content/CatalogService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
